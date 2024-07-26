@@ -1,0 +1,82 @@
+freq: less then Day (Hour, Min, Sec, etc); period: 3600.0 seconds
+Epoch 1/30, Loss: 0.9335
+Validation, Loss: 0.6826, Metric: -0.6826
+Validation, Loss: 0.6826, Metric: -0.6826
+Model saved to checkpoints/fold_0/model_0.pth
+Epoch 2/30, Loss: 0.6196
+Validation, Loss: 0.6234, Metric: -0.6234
+Validation, Loss: 0.6234, Metric: -0.6234
+Model saved to checkpoints/fold_0/model_1.pth
+Epoch 3/30, Loss: 0.5771
+Validation, Loss: 0.5767, Metric: -0.5767
+Validation, Loss: 0.5767, Metric: -0.5767
+Model saved to checkpoints/fold_0/model_2.pth
+Epoch 4/30, Loss: 0.5224
+Validation, Loss: 0.5334, Metric: -0.5334
+Validation, Loss: 0.5334, Metric: -0.5334
+Model saved to checkpoints/fold_0/model_3.pth
+Epoch 5/30, Loss: 0.4721
+Validation, Loss: 0.4858, Metric: -0.4858
+Validation, Loss: 0.4858, Metric: -0.4858
+Model saved to checkpoints/fold_0/model_4.pth
+Epoch 6/30, Loss: 0.4461
+Validation, Loss: 0.4860, Metric: -0.4860
+Validation, Loss: 0.4860, Metric: -0.4860
+Removing worst model snapshot: checkpoints/fold_0/model_0.pth
+Model saved to checkpoints/fold_0/model_5.pth
+Epoch 7/30, Loss: 0.4158
+Validation, Loss: 0.5404, Metric: -0.5404
+Validation, Loss: 0.5404, Metric: -0.5404
+Removing worst model snapshot: checkpoints/fold_0/model_1.pth
+Model saved to checkpoints/fold_0/model_6.pth
+Epoch 8/30, Loss: 0.4171
+Validation, Loss: 0.4442, Metric: -0.4442
+Validation, Loss: 0.4442, Metric: -0.4442
+Removing worst model snapshot: checkpoints/fold_0/model_2.pth
+Model saved to checkpoints/fold_0/model_7.pth
+Epoch 9/30, Loss: 0.3760
+Validation, Loss: 0.4394, Metric: -0.4394
+Validation, Loss: 0.4394, Metric: -0.4394
+Removing worst model snapshot: checkpoints/fold_0/model_6.pth
+Model saved to checkpoints/fold_0/model_8.pth
+Epoch 10/30, Loss: 0.3616
+Validation, Loss: 0.5479, Metric: -0.5479
+Validation, Loss: 0.5479, Metric: -0.5479
+Epoch 11/30, Loss: 0.3664
+Validation, Loss: 0.4186, Metric: -0.4186
+Validation, Loss: 0.4186, Metric: -0.4186
+Removing worst model snapshot: checkpoints/fold_0/model_3.pth
+Model saved to checkpoints/fold_0/model_10.pth
+Epoch 12/30, Loss: 0.3422
+Validation, Loss: 0.4152, Metric: -0.4152
+Validation, Loss: 0.4152, Metric: -0.4152
+Removing worst model snapshot: checkpoints/fold_0/model_5.pth
+Model saved to checkpoints/fold_0/model_11.pth
+Epoch 13/30, Loss: 0.3359
+Validation, Loss: 0.4215, Metric: -0.4215
+Validation, Loss: 0.4215, Metric: -0.4215
+Removing worst model snapshot: checkpoints/fold_0/model_4.pth
+Model saved to checkpoints/fold_0/model_12.pth
+Epoch 14/30, Loss: 0.3253
+Validation, Loss: 0.4073, Metric: -0.4073
+Validation, Loss: 0.4073, Metric: -0.4073
+Removing worst model snapshot: checkpoints/fold_0/model_7.pth
+Model saved to checkpoints/fold_0/model_13.pth
+Epoch 15/30, Loss: 0.3200
+Validation, Loss: 0.4122, Metric: -0.4122
+Validation, Loss: 0.4122, Metric: -0.4122
+Removing worst model snapshot: checkpoints/fold_0/model_8.pth
+Model saved to checkpoints/fold_0/model_14.pth
+Epoch 16/30, Loss: 0.3110
+Validation, Loss: 0.4543, Metric: -0.4543
+Validation, Loss: 0.4543, Metric: -0.4543
+Epoch 17/30, Loss: 0.3165
+Validation, Loss: 0.4149, Metric: -0.4149
+Validation, Loss: 0.4149, Metric: -0.4149
+Removing worst model snapshot: checkpoints/fold_0/model_12.pth
+Model saved to checkpoints/fold_0/model_16.pth
+Early stopping triggered
+Fold 0. Score: -0.4148574769496918
+Mean score: -0.4149
+Std: 0.0
+Validation, Loss: nan, Metric: nan

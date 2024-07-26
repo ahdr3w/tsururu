@@ -1,0 +1,2 @@
+model,dataset,enc_in,history,horizon,project_nodes,predict_nonlinear,adj,mae_mean,mae_std,mse_mean,mse_std
+NaiveEstimator,exchange_rate,8,336,96,False,False,identity,1.639306541117645,0.0,3.9632542969960682,0.0
